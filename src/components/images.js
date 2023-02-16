@@ -4,19 +4,19 @@ import cidade from '../assets/f5.jpg';
 import cidades from '../assets/f8.jpg';
 import cid from '../assets/f7.jpg';
 import cids from '../assets/f2.jpg';
+import cida from '../assets/f9.jpg';
 
 
 const Images = () => {
     return(
         <div>
+            <img src={cida} />   
             <img src={cids} />
-           <img src="/f9.jpg"/> 
            <img src={mountain} />
            <img src={flor} />
            <img src={cidade} />
            <img src={cidades} />
-           <img src={cid} />       
-           
+           <img src={cid} />     
         </div>
     );
 };
