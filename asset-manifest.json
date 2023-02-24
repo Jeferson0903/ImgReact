@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ImgReact/static/css/main.d63e6cd8.css",
+    "main.js": "/ImgReact/static/js/main.25aec0c1.js",
+    "static/js/787.5639fac3.chunk.js": "/ImgReact/static/js/787.5639fac3.chunk.js",
+    "static/media/f9.jpg": "/ImgReact/static/media/f9.7447b59253c0fcd2ec68.jpg",
+    "static/media/f3.jpg": "/ImgReact/static/media/f3.f610404f8e52ffe253f7.jpg",
+    "static/media/f6.jpg": "/ImgReact/static/media/f6.3b9ca8fffe8a50552da9.jpg",
+    "static/media/f8.jpg": "/ImgReact/static/media/f8.9d4d1b9d92d5a9016bd8.jpg",
+    "static/media/f7.jpg": "/ImgReact/static/media/f7.96b96276526723f409fd.jpg",
+    "static/media/f5.jpg": "/ImgReact/static/media/f5.a7a82b0fb2d27231467b.jpg",
+    "static/media/f2.jpg": "/ImgReact/static/media/f2.5cc034ead1e0f373f9c4.jpg",
+    "static/media/logo.svg": "/ImgReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ImgReact/index.html",
+    "main.d63e6cd8.css.map": "/ImgReact/static/css/main.d63e6cd8.css.map",
+    "main.25aec0c1.js.map": "/ImgReact/static/js/main.25aec0c1.js.map",
+    "787.5639fac3.chunk.js.map": "/ImgReact/static/js/787.5639fac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d63e6cd8.css",
+    "static/js/main.25aec0c1.js"
+  ]
+}
